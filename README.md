@@ -5,7 +5,7 @@
 
 - `browser-sync`：静态文件服务器，同时也支持浏览器自动刷新
 - `gulp-sass`：CSS编译器
-- `gulp-autoprefixer`：`gulp-autoprefixer`根据设置浏览器版本自动处理浏览器前缀
+- `gulp-autoprefixer`：根据设置浏览器版本自动处理浏览器前缀
 - `main-bower-files`：会从bower.json文件里寻找定义好的主要文件路径
 - `gulp-uglify`：压缩javascript文件，减小文件大小
 - `gulp-strip-debug`：去除debug信息
