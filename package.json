@@ -1,0 +1,35 @@
+{
+  "name": "ufomobi",
+  "version": "1.0.1",
+  "description": "angular 1.x & gulp",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.16.0",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-angular-templatecache": "^2.0.0",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-bower-src": "^0.1.0",
+    "gulp-cache": "^0.4.6",
+    "gulp-clean-css": "^3.7.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-filter": "^4.0.0",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-replace": "^0.5.4",
+    "gulp-sass": "^2.3.2",
+    "gulp-strip-debug": "^1.1.0",
+    "gulp-uglify": "^2.0.0",
+    "gulp-zip": "^4.0.0",
+    "imagemin-pngquant": "^5.0.1",
+    "main-bower-files": "^2.13.1",
+    "run-sequence": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jsercao",
+  "url": "https://github.com/jsercao/angular-gulp-ufomobi"
+}

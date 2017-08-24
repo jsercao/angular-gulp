@@ -1,0 +1,16 @@
+{
+  "name": "ufomobi",
+  "version": "1.0.0",
+  "dependencies": {
+    "bootstrap": "4.0.0-beta",
+    "jquery": "^3.0.0",
+    "popper.js": "^1.11.0",
+    "angular": "latest",
+    "angular-ui-router": "1.0.0-beta.3",
+    "oclazyload": "latest",
+    "angular-breadcrumb": "latest",
+    "angular-loading-bar": "latest",
+    "fontawesome": "latest"
+  },
+  "private": true
+}

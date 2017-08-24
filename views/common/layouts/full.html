@@ -1,0 +1,24 @@
+<!-- 顶部区域 -->
+<div ng-include="'views/common/navbar.html'"></div>
+
+<div class="app-body">
+    <!-- 左侧导航 -->
+    <div ng-include="'views/common/sidebar-nav.html'"></div>
+
+    <!-- 右侧主体区域 -->
+    <main class="main">
+        <!-- 面包屑区域 -->
+        <ol class="breadcrumb" breadcrumb>
+            <ncy-breadcrumb></ncy-breadcrumb>
+        </ol>
+        <!-- 右侧主内容区域 -->
+        <div class="container-fluid">
+            <ui-view></ui-view>
+        </div>
+    </main>
+
+
+</div>
+
+<!-- 页脚区域 -->
+<div ng-include="'views/common/footer.html'"></div>
